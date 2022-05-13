@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'MJBaseUtils_Example' do
+  pod 'MJBaseUtils', :path => '../'
+
+  target 'MJBaseUtils_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
