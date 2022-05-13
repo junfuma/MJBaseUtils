@@ -1,0 +1,6 @@
+framework module Pods_MJBaseUtils_Tests {
+  umbrella header "Pods-MJBaseUtils_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

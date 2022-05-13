@@ -7,12 +7,13 @@
 //
 
 #import "MJAppDelegate.h"
-
+#import <MJBaseUtils/MJBaseUtils.h>
 @implementation MJAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+  MJWeakProxy *weak = [[MJWeakProxy alloc]initWithTarget:self];
     return YES;
 }
 

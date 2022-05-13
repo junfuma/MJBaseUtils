@@ -1,0 +1,22 @@
+{
+  "name": "MJBaseUtils",
+  "version": "0.1.0",
+  "summary": "提供一个Object 的常用工具类",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wengmaomao",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "majunfu": "1961526741@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/wengmaomao/MJBaseUtils.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MJBaseUtils/Classes/**/*"
+}

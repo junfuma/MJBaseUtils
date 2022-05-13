@@ -1,0 +1,6 @@
+framework module MJBaseUtils {
+  umbrella header "MJBaseUtils-umbrella.h"
+
+  export *
+  module * { export * }
+}

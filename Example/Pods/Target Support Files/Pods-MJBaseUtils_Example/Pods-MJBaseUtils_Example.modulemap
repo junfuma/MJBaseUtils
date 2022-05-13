@@ -1,0 +1,6 @@
+framework module Pods_MJBaseUtils_Example {
+  umbrella header "Pods-MJBaseUtils_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - MJBaseUtils (0.1.0)
+
+DEPENDENCIES:
+  - MJBaseUtils (from `../`)
+
+EXTERNAL SOURCES:
+  MJBaseUtils:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MJBaseUtils: 245e8392e9bfd007c9907d8148ab4be905a033d9
+
+PODFILE CHECKSUM: 7d9218b8bcedf70d8fb8237c9d0e974834af9d68
+
+COCOAPODS: 1.11.3
